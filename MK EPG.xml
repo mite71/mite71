@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Arena Sport 1">
+    <display-name lang="mk">Arena Sport 1</display-name>
+    <url>http://www.maxtvgo.mk</url>
+  </channel>
+  <channel id="Arena Sport 2">
+    <display-name lang="mk">Arena Sport 2</display-name>
+    <url>http://www.maxtvgo.mk</url>
+  </channel>
+  <channel id="Arena Sport 3">
+    <display-name lang="mk">Arena Sport 3</display-name>
+    <url>http://www.maxtvgo.mk</url>
+  </channel>
+  <channel id="Arena Sport 4">
+    <display-name lang="mk">Arena Sport 4</display-name>
+    <url>http://www.maxtvgo.mk</url>
+  </channel>
+  <channel id="Arena Sport 5">
+    <display-name lang="mk">Arena Sport 5</display-name>
+    <url>http://www.maxtvgo.mk</url>
+  </channel>
+  <channel id="Arena Premium 1">
+    <display-name lang="mk">Arena Premium 1</display-name>
+    <url>http://www.maxtvgo.mk</url>
+  </channel>
+  <channel id="Arena Premium 2">
+    <display-name lang="mk">Arena Premium 2</display-name>
+    <url>http://www.maxtvgo.mk</url>
+  </channel>
+  <channel id="Arena Premium 3">
+    <display-name lang="mk">Arena Premium 3</display-name>
+    <url>http://www.maxtvgo.mk</url>
+  </channel>
+  <channel id="Arenasport 1">
+    <display-name lang="hu">Arenasport 1</display-name>
+    <url>http://www.tv.iskon.hr</url>
+  </channel>
+  <channel id="Arenasport 2">
+    <display-name lang="hu">Arenasport 2</display-name>
+    <url>http://www.tv.iskon.hr</url>
+  </channel>
+  <channel id="Arenasport 3">
+    <display-name lang="hu">Arenasport 3</display-name>
+    <url>http://www.tv.iskon.hr</url>
+  </channel>
+  <channel id="Arenasport 4">
+    <display-name lang="hu">Arenasport 4</display-name>
+    <url>http://www.tv.iskon.hr</url>
+  </channel>
+  <channel id="Arenasport 5">
+    <display-name lang="hu">Arenasport 5</display-name>
+    <url>http://www.tv.iskon.hr</url>
+  </channel>
+  <channel id="Arenasport 6">
+    <display-name lang="hu">Arenasport 6</display-name>
+    <url>http://www.tv.iskon.hr</url>
+  </channel>
+  <channel id="Arenasport 7">
+    <display-name lang="hu">Arenasport 7</display-name>
+    <url>http://www.tv.iskon.hr</url>
+  </channel>
+  <channel id="Arenasport 8">
+    <display-name lang="hu">Arenasport 8</display-name>
+    <url>http://www.tv.iskon.hr</url>
+  </channel>
+  <channel id="Arenasport 9">
+    <display-name lang="hu">Arenasport 9</display-name>
+    <url>http://www.tv.iskon.hr</url>
+  </channel>
+  <channel id="Arenasport 10">
+    <display-name lang="hu">Arenasport 10</display-name>
+    <url>http://www.tv.iskon.hr</url>
+  </channel>
+</tv>
